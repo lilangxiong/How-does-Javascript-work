@@ -21,3 +21,5 @@
 + [用 MutationObserver 追踪 DOM 的变化](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver.md)
 
 + [渲染引擎和性能优化技巧](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance.md)
+
++ [深入网络层 + 如何优化性能和安全](https://juejin.im/post/5b02ae48518825429d1f9aff)
